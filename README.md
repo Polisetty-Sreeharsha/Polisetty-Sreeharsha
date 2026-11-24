@@ -144,8 +144,5 @@ something new and build something better.
 
 <div align="center">
 
-### Think Big. Build Smart. Keep Innovating.
-
-⭐ Thanks for visiting my profile!
 
 </div>
